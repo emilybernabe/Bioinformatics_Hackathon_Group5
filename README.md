@@ -31,30 +31,5 @@ chr11_6185418_T_C_b38
 chr11_6185411_G_C_b38
 chr11_6183604_A_T_b38
 
-HBG1 eQTLs:
-ENSG00000213934.9:
-chr11_5273171_C_T_b38
-chr11_5237199_T_C_b38
-chr11_5248569_A_C_b38
-chr11_5270962_C_T_b38
-chr11_5257923_T_C_b38
-chr11_5258097_C_G_b38
-chr11_5258125_C_A_b38
-chr11_5262817_G_A_b38
-chr11_5272395_A_T_b38
-chr11_5247910_C_A_b38
-
-HBG2 eQTLs:
-ENSG00000196565.15
-chr11_5259609_TA_T_b38
-chr11_5256061_C_T_b38
-chr11_5262780_T_C_b38
-chr11_5268823_C_T_b38
-chr11_5250441_C_T_b38
-chr11_5261227_A_C_b38
-chr11_5242453_C_T_b38
-chr11_5253948_T_C_b38
-chr11_5269140_C_G_b38
-chr11_5253222_G_GT_b38
-
 # Task F. Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
+The sickle cell anemia phenotype is caused by a cascade of molecular events initiated by the HBB gene mutation, leading to altered red blood cell membrane properties and increased cellular adhesion, ultimately resulting in vaso-occlusion and tissue damage.
